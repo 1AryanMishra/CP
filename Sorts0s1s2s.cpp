@@ -3,7 +3,7 @@ class Solution
     public:
     void sort012(int arr[], int n)
     {
-        // coode here 
+        
         int z = 0, o = 0, i = 0;
 
         while(i < n){

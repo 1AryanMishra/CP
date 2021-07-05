@@ -2,7 +2,7 @@ class Solution{
 public:
 	
 	int findMaximum(int arr[], int n) {
-	    // code here
+	    
 	    int start = 0, end = n-1, i = 0;
 	    while(n--){
 	        if(start == end){

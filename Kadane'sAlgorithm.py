@@ -1,5 +1,5 @@
 def maxSubArraySum(a,size):
-    ##Your code her
+   
     maxc = maxg= a[0]
     for i in range(size):
         if i == 0:
